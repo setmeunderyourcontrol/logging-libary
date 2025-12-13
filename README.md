@@ -1,4 +1,4 @@
-# logging-libary - made by voru.
+# logging-libary - made by me.
 ***Usage***:
 add the logger.h file into your source / project include it in your file and create a new logger by:
 ```cpp
